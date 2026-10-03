@@ -68,6 +68,7 @@ Read the mod's source and access details before installing. Validation checks th
 - [receipt](https://github.com/hoobnn/hoobnn-agent-mods/tree/main/claude-code/receipt) - One row after each turn with the files changed, lines added and removed, commands run and failed, plus a toast when the model goes in circles.
 - [ts-band](https://github.com/hoobnn/hoobnn-agent-mods/tree/main/claude-code/ts-band) - Tailscale nodes above the prompt from `tailscale status --json`, listing only the relayed or offline ones, with a toast when a node comes up or goes down.
 - [statuspane](https://github.com/xuanji86/claude-statuspane) - A floating status card above the prompt with model, effort, context, 5-hour and weekly limits, cost and branch, plus GitHub CI rows and progress bars any script or mod can feed.
+- [agent-quick-menu](https://github.com/agentic-workbench/agent-quick-menu) - One pane and a band above the prompt with every plugin's commands and settings and Claude Code's own, from a `quick-menu.json` any plugin can ship.
 
 ## While you wait
 
